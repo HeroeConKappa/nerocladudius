@@ -1,0 +1,5 @@
+exports.TOKEN = 'NDMwNDU5NDAwMTQ3MzA0NDQ4.DaUbgA.IsoV9Visult89k2krHJKe-o6fQM' ;
+
+exports.PREFIX = 'UMU ' ;
+
+exports.GOOGLE_API_KEY = 'AIzaSyBXVqlxP3DTRlzn11NRDZAnH9aUD77aZa8';

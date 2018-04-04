@@ -1,0 +1,1 @@
+worker:heroku run node bot.js

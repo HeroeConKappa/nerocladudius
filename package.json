@@ -1,0 +1,19 @@
+{
+  "name": "neroclaudius",
+  "version": "1.0.0",
+  "description": "NeroClaudius para izi",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HeroeConKappa#8296",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js",
+    "ffmpeg": "0.0.4",
+    "opusscript": "0.0.6",
+    "simple-youtube-api": "^5.0.1",
+    "ytdl-core": "^0.20.2"
+  },
+  "devDependencies": {}
+}
